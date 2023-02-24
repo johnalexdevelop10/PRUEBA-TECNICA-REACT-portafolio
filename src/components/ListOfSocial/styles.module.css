@@ -1,0 +1,13 @@
+.list{
+  background-color: white;
+  margin: 10px;
+  padding: 10px 30px;
+  border-radius: 15px;
+  width: max-content;
+  height: max-content;
+  /* mas content:para que no se vaya hacia abajo */
+}
+
+.list li{
+  margin: 10px 0;
+}
